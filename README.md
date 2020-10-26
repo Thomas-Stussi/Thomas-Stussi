@@ -1,4 +1,5 @@
-### Hi there 👋
+### Welcome to the Stussi Zone!
+I am a backend focused Fullstack Engineer with a passion for games, logic, and problem-solving. My past experience with management and customer service have imparted on me a set of skills and leadership qualities that allow me to excel in team work, agile workflows, and creatively overcoming obstacles. My families background in civil service and precision machining imprinted upon me the importance of selflessness and systemic solutions. It is my dream to help provide immersive and accessible experiences that the whole world can share in.  
 
 <!--
 **Thomas-Stussi/Thomas-Stussi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
